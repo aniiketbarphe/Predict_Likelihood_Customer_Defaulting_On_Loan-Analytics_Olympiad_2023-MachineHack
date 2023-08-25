@@ -11,7 +11,7 @@ Analytics Olympiad 3.0 is based on the theme — Predicting Customer Loan Defaul
 In today's financial landscape, an accurate prediction of customer loan default can reduce the risk and maintain a healthy lending portfolio. The challenge requires the participants to develop machine learning models to determine the likelihood of a customer defaulting on a loan. 
 
 Contestants will be provided with credit history, payment behaviour, and account details to build the model. This challenge mirrors a huge real-world problem faced by financial institutions, thus making it extremely relevant.
-
+#
 **C) About the Dataset:-** Dataset contains following files,
 
 **C1) Train:-** rows x  columns
@@ -93,9 +93,9 @@ Contestants will be provided with credit history, payment behaviour, and account
 **6.1) primary_close_flag:-** Binary indicator for primary term close.
 
 **6.2) final_close_flag:-** Binary indicator for final term close.
-
+#
 **D) Evaluation metric:-**  All submissions will be evaluated using the roc_auc_score.
-
+#
 **E) Public and Private Split:-**
 
 **E1)** This competition supports private and public leaderboards
@@ -125,11 +125,11 @@ Contestants will be provided with credit history, payment behaviour, and account
 **1) Public Leaderboard :-** 
 
 **2) Private Leaderboard :-** 
-
+#
 **b) Best Model:-** 
-
+#
 **c) Competition Link:-**  https://machinehack.com/hackathons/analytics_olympiad_2023/leaderboard
-
+#
 **d) Rank Scored:-**
 
 a) **XX** out of **YYYY** registered participants (Public Leaderboard)
