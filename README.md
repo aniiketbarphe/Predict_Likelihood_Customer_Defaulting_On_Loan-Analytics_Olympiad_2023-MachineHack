@@ -30,13 +30,17 @@ Contestants will be provided with credit history, payment behaviour, and account
 
 **1.3) lastname:-** Last name of the customer.
 
-2) Credit Record Information:
+**2) Credit Record Information:-**
 
-record_number: Sequence number of the credit product in the credit history.
-days_since_opened: Days from credit opening date to data collection date.
-days_since_confirmed: Days from credit information confirmation date till data collection date.
-primary_term: Planned number of days from credit opening date to closing date.
-final_term: Actual number of days from credit opening date to closing date.
+**2.1) record_number:-** Sequence number of the credit product in the credit history.
+
+**2.2) days_since_opened:-** Days from credit opening date to data collection date.
+
+**2.3) days_since_confirmed:-** Days from credit information confirmation date till data collection date.
+
+**2.4) primary_term:-** Planned number of days from credit opening date to closing date.
+
+**2.5) final_term:-** Actual number of days from credit opening date to closing date.
 days_till_primary_close: Planned number of days from data collection date until loan closing date.
 days_till_final_close: Actual number of days from data collection date until loan closing date.
 loans_credit_limit: Credit limit for the customer's loans.
