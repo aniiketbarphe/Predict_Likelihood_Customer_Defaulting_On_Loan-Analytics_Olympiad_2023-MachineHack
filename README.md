@@ -1,3 +1,5 @@
+![IMG1](https://github.com/aniiketbarphe/Predict_Likelihood_Customer_Defaulting_On_Loan-Analytics_Olympiad_2023-MachineHack/assets/84449238/88cd5095-8462-4c00-8899-082cd55a5d68)
+
 # Predict_Likelihood_Customer_Defaulting_On_Loan-Analytics_Olympiad_2023-MachineHack
 
 **A) About Hackathon:-**
