@@ -5,7 +5,7 @@
 The Academy of Continuing Education at Shiv Nadar Institution of Eminence, in collaboration with MachineHack, is thrilled to announce the third edition of its hugely successful Analytics Olympiad. This annual event provides a much-desired platform for data scientists and machine learning professionals to showcase their predictive analytics prowess and win up to INR 1 lakh. 
 
 Analytics Olympiad 3.0 is based on the theme — Predicting Customer Loan Default — and will provide valuable insights for the banking, finance, insurance (BFSI) and fintech industry.
-
+#
 **B) Problem Statement:-**
 
 In today's financial landscape, an accurate prediction of customer loan default can reduce the risk and maintain a healthy lending portfolio. The challenge requires the participants to develop machine learning models to determine the likelihood of a customer defaulting on a loan. 
