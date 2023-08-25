@@ -1,5 +1,27 @@
 # Predict_Likelihood_Customer_Defaulting_On_Loan-Analytics_Olympiad_2023-MachineHack
 
+A) About Hackathon:-
+
+The Academy of Continuing Education at Shiv Nadar Institution of Eminence, in collaboration with MachineHack, is thrilled to announce the third edition of its hugely successful Analytics Olympiad. This annual event provides a much-desired platform for data scientists and machine learning professionals to showcase their predictive analytics prowess and win up to INR 1 lakh. 
+
+Analytics Olympiad 3.0 is based on the theme — Predicting Customer Loan Default — and will provide valuable insights for the banking, finance, insurance (BFSI) and fintech industry.
+
+B) Problem Statement:-
+
+In today's financial landscape, an accurate prediction of customer loan default can reduce the risk and maintain a healthy lending portfolio. The challenge requires the participants to develop machine learning models to determine the likelihood of a customer defaulting on a loan. 
+
+Contestants will be provided with credit history, payment behaviour, and account details to build the model. This challenge mirrors a huge real-world problem faced by financial institutions, thus making it extremely relevant.
+
+C) About the Dataset:- Dataset contains following files,
+
+C1) Train:- rows x  columns
+
+C2) Test:-  rows x  columns
+
+C4) 
+
+C4) Data description:-
+
 Dataset Description
 
 The dataset provided to the participants will contain:
