@@ -76,34 +76,64 @@ Contestants will be provided with credit history, payment behaviour, and account
 
 **4.6) is_zero_max_over_limit_count:-** Binary indicator if the maximum over limit count is zero.
 
-5) Encoded Features:
+**5) Encoded Features:-**
 
-encoded_payment_X: Encoded information about payment X (categorical features converted to numerical values).
-encoded_loans_account_holder_type: Encoded information about the type of account holder for loans.
-encoded_loans_credit_status: Encoded information about the credit status of loans.
-encoded_loans_credit_type: Encoded information about the type of credit for loans.
-encoded_loans_account_currency: Encoded information about the currency used for loans.
+**5.1) encoded_payment_X:-** Encoded information about payment X (categorical features converted to numerical values).
 
-6) Close Flags:
+**5.2) encoded_loans_account_holder_type:-** Encoded information about the type of account holder for loans.
 
-primary_close_flag: Binary indicator for primary term close.
-final_close_flag: Binary indicator for final term close.
+**5.3) encoded_loans_credit_status:-** Encoded information about the credit status of loans.
 
-D) Evaluation metric:-  All submissions will be evaluated using the roc_auc_score.
+**5.4) encoded_loans_credit_type:-** Encoded information about the type of credit for loans.
 
-E) Public and Private Split:-
+**5.5) encoded_loans_account_currency:-** Encoded information about the currency used for loans.
 
-This competition supports private and public leaderboards
-The public leaderboard is evaluated on 30% of Test data
-The private leaderboard will be made available at the end of the phase 1 of the competition, which will be evaluated on 100% of Test data
-The Final Score represents the score achieved based on the Best Score on the public leaderboard
+**6) Close Flags:**
 
-Finalists will be judged as per the following criteria, in the final jury round
+**6.1) primary_close_flag:-** Binary indicator for primary term close.
 
-30% Business Outcome/Impact,
-20% Innovative + Creativity
-20% Algorithm and ML approach
-15% Statistically analysis
-15% Presentation + Communication.
+**6.2) final_close_flag:-** Binary indicator for final term close.
+
+**D) Evaluation metric:-**  All submissions will be evaluated using the roc_auc_score.
+
+**E) Public and Private Split:-**
+
+**E1)** This competition supports private and public leaderboards
+
+**E2)** The public leaderboard is evaluated on 30% of Test data
+
+**E3)** The private leaderboard will be made available at the end of the phase 1 of the competition, which will be evaluated on 100% of Test data
+
+**E4)** The Final Score represents the score achieved based on the Best Score on the public leaderboard
+
+**E5)** Finalists will be judged as per the following criteria in the final jury round:-
+
+**E5.1)** 30% Business Outcome/Impact,
+
+**E5.2)** 20% Innovative + Creativity
+
+**E5.3)** 20% Algorithm and ML approach
+
+**E5.4)** 15% Statistically analysis
+
+**E5.5)** 15% Presentation + Communication
 
 # Summary
+
+**a) Best Submission Score:-**
+
+**1) Public Leaderboard :-** 
+
+**2) Private Leaderboard :-** 
+
+**b) Best Model:-** 
+
+**c) Competition Link:-**  https://machinehack.com/hackathons/analytics_olympiad_2023/leaderboard
+
+**d) Rank Scored:-**
+
+a) **XX** out of **YYYY** registered participants (Public Leaderboard)
+
+b) **XX** out of **YYYY** registered participants (Private Leaderboard)
+
+
