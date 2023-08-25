@@ -41,18 +41,26 @@ Contestants will be provided with credit history, payment behaviour, and account
 **2.4) primary_term:-** Planned number of days from credit opening date to closing date.
 
 **2.5) final_term:-** Actual number of days from credit opening date to closing date.
-days_till_primary_close: Planned number of days from data collection date until loan closing date.
-days_till_final_close: Actual number of days from data collection date until loan closing date.
-loans_credit_limit: Credit limit for the customer's loans.
-loans_next_payment_summary: Amount of the next loan payment.
-loans_outstanding_balance: Outstanding balance amount.
-loans_max_overdue_amount: Maximum overdue amount.
-loans_credit_cost_rate: Cost rate associated with loans.
 
-3) Loan Overdue Information:
+**2.6) days_till_primary_close:-** Planned number of days from data collection date until loan closing date.
 
-loans_within_5_days to loans_over_90_days: Number of loans overdue within different time frames.
-is_zero_loans_within_5_days to is_zero_loans_over_90_days: Binary indicators for zero loans overdue within different time frames.
+**2.7) days_till_final_close:-** Actual number of days from data collection date until loan closing date.
+
+**2.8) loans_credit_limit:-** Credit limit for the customer's loans.
+
+**2.9) loans_next_payment_summary:-** Amount of the next loan payment.
+
+**2.10) loans_outstanding_balance:-** Outstanding balance amount.
+
+**2.11) loans_max_overdue_amount:-** Maximum overdue amount.
+
+**2.12) loans_credit_cost_rate:-** Cost rate associated with loans.
+
+**3) Loan Overdue Information:-**
+
+**3.1) loans_within_5_days to loans_over_90_days:-** Number of loans overdue within different time frames.
+
+**3.2) is_zero_loans_within_5_days to is_zero_loans_over_90_days:-** Binary indicators for zero loans overdue within different time frames.
 
 4) Credit Utilization and Limit Information:
 
