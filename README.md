@@ -62,14 +62,19 @@ Contestants will be provided with credit history, payment behaviour, and account
 
 **3.2) is_zero_loans_within_5_days to is_zero_loans_over_90_days:-** Binary indicators for zero loans overdue within different time frames.
 
-4) Credit Utilization and Limit Information:
+**4) Credit Utilization and Limit Information:-**
 
-utilization: Credit utilization rate.
-over_limit_count: Count of instances where the customer went over the credit limit.
-max_over_limit_count: Maximum count of instances where the customer exceeded the credit limit.
-is_zero_utilization: Binary indicator if credit utilization rate is zero.
-is_zero_over_limit_count: Binary indicator if the count of over limit instances is zero.
-is_zero_max_over_limit_count: Binary indicator if the maximum over limit count is zero.
+**4.1) utilization:-** Credit utilization rate.
+
+**4.2) over_limit_count:-** Count of instances where the customer went over the credit limit.
+
+**4.3) max_over_limit_count:-** Maximum count of instances where the customer exceeded the credit limit.
+
+**4.4) is_zero_utilization:-** Binary indicator if credit utilization rate is zero.
+
+**4.5) is_zero_over_limit_count:-** Binary indicator if the count of over limit instances is zero.
+
+**4.6) is_zero_max_over_limit_count:-** Binary indicator if the maximum over limit count is zero.
 
 5) Encoded Features:
 
