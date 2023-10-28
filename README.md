@@ -2,6 +2,8 @@
 
 # Predict_Likelihood_Customer_Defaulting_On_Loan-Analytics_Olympiad_2023-MachineHack
 
+![Congrats-Image-V2](https://github.com/aniiketbarphe/Predict_Likelihood_Customer_Defaulting_On_Loan-Analytics_Olympiad_2023-MachineHack/assets/84449238/76790b2a-3f90-4fbc-b8f5-e9616782fec8)
+
 **A) About Hackathon:-**
 
 The Academy of Continuing Education at Shiv Nadar Institution of Eminence, in collaboration with MachineHack, is thrilled to announce the third edition of its hugely successful Analytics Olympiad. This annual event provides a much-desired platform for data scientists and machine learning professionals to showcase their predictive analytics prowess and win up to INR 1 lakh. 
@@ -16,9 +18,9 @@ Contestants will be provided with credit history, payment behaviour, and account
 #
 **C) About the Dataset:-** Dataset contains following files,
 
-**C1) Train:-** rows x  columns
+**C1) Train:-** **11,06,674** rows x  **62** columns
 
-**C2) Test:-**  rows x  columns
+**C2) Test:-**  **4,74,289** rows x  **60** columns
 
 **C3) Submission:-**
 
@@ -124,9 +126,9 @@ Contestants will be provided with credit history, payment behaviour, and account
 
 **a) Best Submission Score:-**
 
-**1) Public Leaderboard :-** 
+**1) Public Leaderboard :-** 0.99992
 
-**2) Private Leaderboard :-** 
+**2) Private Leaderboard :-** 0.99986
 #
 **b) Best Model:-** 
 #
@@ -134,8 +136,14 @@ Contestants will be provided with credit history, payment behaviour, and account
 #
 **d) Rank Scored:-**
 
-a) **XX** out of **YYYY** registered participants (Public Leaderboard)
+**After 2nd Round**
 
-b) **XX** out of **YYYY** registered participants (Private Leaderboard)
+**Top 50** out of **1016** registered participants
+
+**After 1st Round**
+
+a) **81** out of **1016** registered participants (Public Leaderboard)
+
+b) **103** out of **1016** registered participants (Private Leaderboard)
 
 
