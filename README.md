@@ -23,7 +23,7 @@ Contestants will be provided with credit history, payment behaviour, and account
 **C2) Test:-**  **4,74,289** rows x  **60** columns
 
 **C3) Submission:-** **4,74,289** rows x  **2** columns
-----------------------------------------------------------------------
+#####
 **C4) Data description:-** The dataset provided to the participants will contain:
 
 **1) Customer Information:-**
