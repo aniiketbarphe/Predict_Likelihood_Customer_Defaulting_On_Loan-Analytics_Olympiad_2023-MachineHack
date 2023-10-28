@@ -151,4 +151,5 @@ a) **81** out of **1016** registered participants (Public Leaderboard)
 
 b) **103** out of **1016** registered participants (Private Leaderboard)
 
+![BOTH-LEADERBOARD](https://github.com/aniiketbarphe/Predict_Likelihood_Customer_Defaulting_On_Loan-Analytics_Olympiad_2023-MachineHack/assets/84449238/317769d2-aa51-4ddf-9e05-f6ef28e43583)
 
