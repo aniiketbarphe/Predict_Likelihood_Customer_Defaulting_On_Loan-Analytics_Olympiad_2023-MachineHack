@@ -22,8 +22,8 @@ Contestants will be provided with credit history, payment behaviour, and account
 
 **C2) Test:-**  **4,74,289** rows x  **60** columns
 
-**C3) Submission:-**
-
+**C3) Submission:-** **4,74,289** rows x  **2** columns
+----------------------------------------------------------------------
 **C4) Data description:-** The dataset provided to the participants will contain:
 
 **1) Customer Information:-**
@@ -131,6 +131,11 @@ Contestants will be provided with credit history, payment behaviour, and account
 **2) Private Leaderboard :-** 0.99986
 #
 **b) Best Model:-** 
+
+**b1) Target Variable :-** 'Primary_Close_Flag' [ Ensemble Technique (XGB Classifier + Gradient Boosting Classifier with best Hyperparameters)]
+
+**b2) Target Variable :-** 'Final_Close_Flag' [ Ensemble Technique (XGB Classifier + Gradient Boosting Classifier with best Hyperparameters)]
+
 #
 **c) Competition Link:-**  https://machinehack.com/hackathons/analytics_olympiad_2023/leaderboard
 #
